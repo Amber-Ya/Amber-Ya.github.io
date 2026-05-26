@@ -1,5 +1,5 @@
 ---
-permalink: /Ya-Liu.github.io
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
