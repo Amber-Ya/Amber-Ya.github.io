@@ -25,7 +25,7 @@ Email: yaliu0227@tongji.edu.cn
 - *2025.08*: One paper on asynchronous multi-agent collaboration for refinery production and procurement optimization was published in **IEEE Transactions on Automation Science and Engineering**.
 - *2025.03*: One paper on distributionally robust CVaR optimization for integrated production-maintenance scheduling was published in **Computers & Chemical Engineering**.
 
-# 📝 Publications
+# 📝 Publications 
 
 \* denotes corresponding author.
 
@@ -58,7 +58,7 @@ Email: yaliu0227@tongji.edu.cn
 - *2018*: Third Prize, Lanqiao Cup C/C++ Programming Competition, Jiangxi Province.
 - *2017*: First Prize, Mathematical Modeling Competition, Jiangxi University of Finance and Economics.
 
-# 📖 Education
+# 📖 Educations
 - *2022.09 - Present*, Ph.D. in Computer Science and Technology, Tongji University. Advisor: Prof. Hanli Wang.
 - *2019.09 - 2022.06*, M.Eng. in Computer Science and Technology, Shanghai University. Advisor: Prof. Guobing Zou.
 - *2015.09 - 2019.06*, B.Eng. in Computer Science and Technology, Jiangxi University of Finance and Economics.
